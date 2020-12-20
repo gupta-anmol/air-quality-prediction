@@ -19,6 +19,6 @@ Dependencies required
 - `run_ANN(pollutant='PM2.5',days=1)` 
 - `run_SVM(pollutant='PM2.5',days=1)` 
 - `run_LR(pollutant='PM2.5',days=1)` 
-- pollutant strings parameters from 'PM2.5', 'PM10', 'CO', 'NO2', 'SO2'
+- pollutant strings parameters from 'PM2.5', 'PM10', 'NO2', 'SO2'
 - days argument can be 1, 2 or 3
 
