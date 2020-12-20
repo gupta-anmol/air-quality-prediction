@@ -14,7 +14,7 @@ Dependencies Required
 - change hyperparamters in trainmodel functions
 
 ### Steps for using pretrained Model
-- functions provided in demo.py
+- functions provided in demo.py for preprocessing and predicting usnig trained model and printing metrics and plotiing graphs
 - `run_CNN(pollutant='PM2.5',days=1)` 
 - `run_ANN(pollutant='PM2.5',days=1)` 
 - `run_SVM(pollutant='PM2.5',days=1)` 
