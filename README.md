@@ -14,8 +14,11 @@ Dependencies Required
 - change hyperparamters in trainmodel functions
 
 ### Steps for using pretrained Model
-functions provided in demo.py
-`run_CNN(pollutant='PM2.5',days=1)` 
-pollutant strings parameters from 'PM2.5', 'PM10', 'CO', 'NO2', 'SO2'
-days can be 1,2 or 3
+- functions provided in demo.py
+- `run_CNN(pollutant='PM2.5',days=1)` 
+- `run_ANN(pollutant='PM2.5',days=1)` 
+- `run_SVM(pollutant='PM2.5',days=1)` 
+- `run_LR(pollutant='PM2.5',days=1)` 
+- pollutant strings parameters from 'PM2.5', 'PM10', 'CO', 'NO2', 'SO2'
+- days can be 1,2 or 3
 
