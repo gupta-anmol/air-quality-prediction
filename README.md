@@ -1,10 +1,10 @@
 ## Air-quality-prediction
 # Overview
-- Prediction of pollution indicators - PM2.5, PM10, CO, SO2 and NO2
-- Predicting in 1/2/3 days in the future using past 24 hours data only
-- trained using keras with tensorflow as backend
+- Prediction of pollution indicators - PM2.5, PM10, SO2 and NO2
+- Predicting 1, 2 and 3 days into the future using past 24 hours data only
+- Trained using keras with tensorflow as backend
 
-Dependencies Required 
+Dependencies required 
 - scikit-learn
 - keras tensorflow
 - numpy, pandas, matplotlib, seaborn and tqdm
@@ -20,5 +20,5 @@ Dependencies Required
 - `run_SVM(pollutant='PM2.5',days=1)` 
 - `run_LR(pollutant='PM2.5',days=1)` 
 - pollutant strings parameters from 'PM2.5', 'PM10', 'CO', 'NO2', 'SO2'
-- days can be 1,2 or 3
+- days can be 1, 2 or 3
 
